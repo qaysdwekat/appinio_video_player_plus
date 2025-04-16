@@ -114,14 +114,18 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 }
 
-String videoUrlLandscape = "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4";
+String videoUrlLandscape =
+    "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4";
 String videoUrlPortrait =
     'https://assets.mixkit.co/videos/preview/mixkit-a-girl-blowing-a-bubble-gum-at-an-amusement-park-1226-large.mp4';
 String longVideo =
-    "https://nsp-images-dev.s3.amazonaws.com/b0c41a2b-a9ef-428c-8fbe-f536305c146c/5be5e5b9-45d0-489f-a258-f69578aab8bb.weba?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250416T132254Z&X-Amz-SignedHeaders=host&X-Amz-Credential=AKIAYIYREEVWO6CU2MSL%2F20250416%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Expires=600&X-Amz-Signature=8f5eeca0636ed811389f0f19d455694a5d191ff5ebc2996da957fc9098d47ed0";
+    "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4";
 
-String video720 = "https://www.sample-videos.com/video123/mp4/720/big_buck_bunny_720p_10mb.mp4";
+String video720 =
+    "https://www.sample-videos.com/video123/mp4/720/big_buck_bunny_720p_10mb.mp4";
 
-String video480 = "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4";
+String video480 =
+    "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4";
 
-String video240 = "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4";
+String video240 =
+    "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4";

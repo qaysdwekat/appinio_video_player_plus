@@ -1,8 +1,8 @@
-import 'package:appinio_video_player/src/controls/all_controls_overlay.dart';
-import 'package:appinio_video_player/src/custom_video_player_controller.dart';
-import 'package:appinio_video_player/src/seek_buttons.dart';
-import 'package:appinio_video_player/src/thumbnail.dart';
-import 'package:appinio_video_player/src/volume_control.dart';
+import 'package:appinio_video_player_plus/src/controls/all_controls_overlay.dart';
+import 'package:appinio_video_player_plus/src/custom_video_player_controller.dart';
+import 'package:appinio_video_player_plus/src/seek_buttons.dart';
+import 'package:appinio_video_player_plus/src/thumbnail.dart';
+import 'package:appinio_video_player_plus/src/volume_control.dart';
 import 'package:cached_video_player_plus/cached_video_player_plus.dart';
 import 'package:flutter/cupertino.dart';
 

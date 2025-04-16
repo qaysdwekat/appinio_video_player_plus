@@ -1,7 +1,7 @@
 import 'dart:async';
 
-import 'package:appinio_video_player/src/fullscreen_video_player.dart';
-import 'package:appinio_video_player/src/models/custom_video_player_settings.dart';
+import 'package:appinio_video_player_plus/src/fullscreen_video_player.dart';
+import 'package:appinio_video_player_plus/src/models/custom_video_player_settings.dart';
 import 'package:cached_video_player_plus/cached_video_player_plus.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';

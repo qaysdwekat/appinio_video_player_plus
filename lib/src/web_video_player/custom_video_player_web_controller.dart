@@ -1,4 +1,4 @@
-import 'package:appinio_video_player/appinio_video_player.dart';
+import 'package:appinio_video_player_plus/appinio_video_player_plus.dart';
 import 'package:flutter/material.dart';
 
 class CustomVideoPlayerWebController {

@@ -1,8 +1,8 @@
-import 'package:appinio_video_player/src/controls/fullscreen_button.dart';
-import 'package:appinio_video_player/src/controls/play_button.dart';
-import 'package:appinio_video_player/src/controls/video_settings_button.dart';
-import 'package:appinio_video_player/src/models/custom_video_player_popup_settings.dart';
-import 'package:appinio_video_player/src/models/custom_video_player_progress_bar_settings.dart';
+import 'package:appinio_video_player_plus/src/controls/fullscreen_button.dart';
+import 'package:appinio_video_player_plus/src/controls/play_button.dart';
+import 'package:appinio_video_player_plus/src/controls/video_settings_button.dart';
+import 'package:appinio_video_player_plus/src/models/custom_video_player_popup_settings.dart';
+import 'package:appinio_video_player_plus/src/models/custom_video_player_progress_bar_settings.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

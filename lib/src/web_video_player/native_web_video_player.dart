@@ -1,6 +1,6 @@
 import 'dart:ui_web' as ui;
 
-import 'package:appinio_video_player/appinio_video_player.dart';
+import 'package:appinio_video_player_plus/appinio_video_player_plus.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:universal_html/html.dart' as html;
 
